@@ -1,3 +1,5 @@
 first test
 
 adding feature 1
+
+adding feature 2
